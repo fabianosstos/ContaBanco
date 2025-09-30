@@ -1,2 +1,2 @@
 # ContaBanco
-Treinando JAVA - conta bancária
+Treinando Git/GitHub - conta bancária
